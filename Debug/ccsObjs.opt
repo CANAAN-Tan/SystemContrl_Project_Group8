@@ -1,0 +1,5 @@
+"./Library_Display.obj"
+"./main.obj"
+"./pwm.obj"
+"../lnk_msp430g2553.cmd"
+-llibc.a
